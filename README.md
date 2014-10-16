@@ -1,4 +1,4 @@
 Simple-Require-Implementation
 =============================
 
-A simple, synchronous, implementation of require
+A minimal, synchronous, implementation of require in Javascript
